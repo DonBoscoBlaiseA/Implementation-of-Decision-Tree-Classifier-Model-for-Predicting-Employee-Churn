@@ -13,6 +13,12 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 3. Divide the dataset into training and testing sets using train_test_split with specified test size and random state.
 4. Initialize a DecisionTreeClassifier with 'entropy' criterion and fit it to the training data.
 5. Predict 'left' values for testing data, calculate accuracy using metrics.accuracy_score, and make predictions for new input features.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Program:
 ```
