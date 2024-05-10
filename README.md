@@ -84,6 +84,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>  
 
 ## Result:
