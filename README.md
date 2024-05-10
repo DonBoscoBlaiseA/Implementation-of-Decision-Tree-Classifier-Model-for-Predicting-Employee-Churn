@@ -38,7 +38,8 @@ from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
 data['salary']=le.fit_transform(data['salary'])
 data.head()
-x=data[['satisfaction_level','last_evaluation','number_project','average_montly_hours','time_spend_company','Work_accident','promotion_last_5years','salary']]
+x=data[['satisfaction_level','last_evaluation','number_project','average_montly_hours'
+                ,'time_spend_company','Work_accident','promotion_last_5years','salary']]
 x.head()
 y=data['left']
 from sklearn.model_selection import train_test_split
@@ -62,6 +63,20 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/140850829/408f3335-ea16-437c-a78c-6d508ccdcfa5)
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/140850829/f0d0c76b-0f7e-4577-a794-6184f599dfdb)
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/140850829/9f7b4f63-b390-4080-8f52-6e44de29ed38)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
