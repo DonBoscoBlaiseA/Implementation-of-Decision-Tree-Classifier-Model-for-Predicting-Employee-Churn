@@ -52,14 +52,7 @@ accuracy=metrics.accuracy_score(y_test,y_predict)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
-```
 
-
-
-
-
-
-```
 ## Output:
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/140850829/b3237a3a-f019-4bcc-a56c-295183255220)
 ![image](https://github.com/DonBoscoBlaiseA/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/140850829/a04454b8-ae4f-47f4-9c3b-917668497a73)
